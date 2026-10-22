@@ -1,0 +1,9 @@
+Answer the following question.
+
+Return only the shortest final answer: a name, place, date, number,
+or exactly yes/no for a binary question.
+Do not include explanations, reasoning, or citations.
+If you do not know the answer, output exactly <ABSTAIN>.
+
+Question: {question}
+Answer:

@@ -1,0 +1,13 @@
+system,type,em,f1
+closed_book,bridge_comparison,"16.7 [7.6, 25.8]","17.2 [9.1, 27.3]"
+closed_book,comparison,"45.2 [34.2, 57.5]","45.7 [35.2, 58.0]"
+closed_book,compositional,"5.6 [1.6, 9.6]","7.8 [3.7, 12.1]"
+closed_book,inference,"0.0 [0.0, 0.0]","20.7 [14.2, 27.0]"
+dense,bridge_comparison,"42.4 [30.3, 54.5]","43.0 [31.0, 54.8]"
+dense,comparison,"76.7 [67.1, 86.3]","76.7 [67.1, 86.3]"
+dense,compositional,"22.4 [15.2, 30.4]","28.0 [20.5, 35.6]"
+dense,inference,"2.8 [0.0, 8.3]","35.4 [26.4, 46.2]"
+oracle,bridge_comparison,"45.5 [31.8, 59.1]","48.3 [35.9, 60.8]"
+oracle,comparison,"87.7 [80.8, 94.5]","88.6 [81.3, 95.0]"
+oracle,compositional,"61.6 [53.6, 70.4]","70.5 [62.8, 78.0]"
+oracle,inference,"44.4 [27.8, 61.1]","62.7 [49.1, 76.0]"
